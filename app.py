@@ -14,5 +14,8 @@ def main():
     st.data_editor(result.loc[result['SGG_NM'] == SGG_NM, :])
     st.title("완성")
 
+    # 샘플 코드 
+    st.subheader("테스트")
+
 if __name__ == "__main__":
     main()
