@@ -6,16 +6,14 @@
 - 00 팀원 : 깃허브 주소 공유
 
 
-# 본 프로젝트에서 사용한 주요 개발환경 요약
-  + Programming Languages : Python(ver. 3.11.4), SQL
+# 본 프로젝트에서 사용한 주요 개발환경 요약  (예시)
+  + Programming Languages : Python(ver. 3.11.6), SQL
   + Cloud : Google Cloud Platform
   + Databases : MySQL (ver. 8.0.20), Google BigQuery
   + Web Framework : Streamlit (ver. 1.28.1)
 
-
-
 ## 주요 라이브러리 버전
-  + requirements.txt 파일 참조
+  + [requirements.txt](requirements.txt) 파일 참조
 
 # 데모페이지
 - Streamlit에서 구현한 Demo는 다음과 같습니다.
