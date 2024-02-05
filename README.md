@@ -48,5 +48,6 @@ def main():
 
 # License
 - 라이선스 링크 아웃링크로 처리
+- [MIT Licence](LICENSE)
 
 
